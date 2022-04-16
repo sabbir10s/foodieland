@@ -1,0 +1,22 @@
+.banner-container {
+  background-size: cover;
+  background-image: url(../../../images/banner.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  
+}
+
+.banner-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
